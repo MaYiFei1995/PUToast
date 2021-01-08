@@ -1,0 +1,3 @@
+include ':PUToast'
+include ':app'
+rootProject.name = "PUToastDemo"
