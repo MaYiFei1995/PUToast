@@ -1,5 +1,5 @@
 # PUToast
-Toast 组件默认只能展示在主 Display 上，PUToast 通过构造一个 PopupWindoww 在 Presentation 界面上模拟 Toast 的显示与隐藏。
+Android10 (API 29) 之前 Toast 组件默认只能展示在主 Display 上，PUToast 通过构造一个 PopupWindoww 在 Presentation 界面上模拟 Toast 的显示与隐藏。
 
 ## 使用
 使用方法参照 app module 的 `TestPresentation`。
